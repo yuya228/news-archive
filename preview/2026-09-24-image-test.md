@@ -25,7 +25,7 @@
 
 ## 5．大谷翔平、故障者リストから復帰
 
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Shohei_Ohtani_(53836294794).jpg" alt="Shohei Ohtani" width="680">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/960px-Shohei_Ohtani_%2853836294794%29.jpg" alt="Shohei Ohtani" width="680">
 
 *大谷翔平（資料写真） / Wikimedia Commons / CC BY 2.0*
 
@@ -55,7 +55,7 @@
 
 ## 9．F-35部品、輸送途中で香港へ
 
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_(9589384).jpg" alt="F-35A Lightning II" width="680">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589376%29.jpg/960px-F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589376%29.jpg" alt="F-35A Lightning II" width="680">
 
 *F-35A Lightning II（資料写真） / Wikimedia Commons / Public Domain*
 
@@ -67,7 +67,7 @@
 
 記事の中心であるF-35の機体イメージをすぐ把握できる。今回の当該機や部品そのものの写真ではないので、資料写真として扱う。
 
-[画像ページを見る](https://commons.wikimedia.org/wiki/File:F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_(9589384).jpg)
+[画像ページを見る](https://commons.wikimedia.org/wiki/File:F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_(9589376).jpg)
 
 ---
 
