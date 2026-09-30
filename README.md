@@ -25,8 +25,7 @@ AIの声には権利の線引きが必要になり、本人確認のために預
 
 8月の落ち込みより、9月の「3.2％増予定」が本当に数字になるかが次の答え合わせ。単月の悪化と先行き計画は分けて見る必要がある。
 
-**主な参照元**：  
-[経済産業省](https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202608sj.html) / [Reuters](https://www.reuters.com/world/asia-pacific/japan-august-factory-output-falls-17-month-on-month-2026-09-29/)
+**主な参照元**：[経済産業省](https://www.meti.go.jp/statistics/tyo/iip/result/book/b2020_202608sj.html) / [Reuters](https://www.reuters.com/world/asia-pacific/japan-august-factory-output-falls-17-month-on-month-2026-09-29/)
 
 ### 2．【IT・権利】AIで声を無断模倣　東京地裁「声もパブリシティ権の対象」
 **何が起きたか**
@@ -45,8 +44,7 @@ AIの声には権利の線引きが必要になり、本人確認のために預
 
 動画は消えたが、「声は勝手にコピーしていい素材ではない」という線は前よりはっきりした。勝敗より、AI時代の声の経済的価値をどう位置づけたかが本題。
 
-**主な参照元**：  
-[FNNプライムオンライン](https://www.fnn.jp/articles/-/1123782) / [テレビ朝日](https://news.tv-asahi.co.jp/news_society/articles/000536856.html)
+**主な参照元**：[FNNプライムオンライン](https://www.fnn.jp/articles/-/1123782) / [テレビ朝日](https://news.tv-asahi.co.jp/news_society/articles/000536856.html)
 
 ### 3．【暮らし・安全】タイムズカー、免許証など本人確認書類が約160万件漏えい
 **何が起きたか**
@@ -65,8 +63,7 @@ AIの声には権利の線引きが必要になり、本人確認のために預
 
 160万件という数字以上に、中身の重さが問題。ここからは悪用をどう防ぐかが本番。
 
-**主な参照元**：  
-[タイムズカー](https://share.timescar.jp/news/2026/0929/1816.html) / [ITmedia NEWS](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
+**主な参照元**：[タイムズカー](https://share.timescar.jp/news/2026/0929/1816.html) / [ITmedia NEWS](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
 
 ### 4．【社会・動物】環境省、動物カフェを初の全国規模調査へ
 **何が起きたか**
@@ -85,8 +82,7 @@ AIの声には権利の線引きが必要になり、本人確認のために預
 
 いきなり規制論へ飛ぶより、まず何匹いて、どう扱われているのかを数字にする段階。業態ごとの差まで見えれば、必要なルールも考えやすくなる。
 
-**主な参照元**：  
-[Reuters](https://www.reuters.com/world/asia-pacific/japan-survey-animal-cafes-first-time-over-welfare-disease-concerns-2026-09-30/) / [The Japan Times](https://www.japantimes.co.jp/news/2026/08/28/japan/animal-cafe-survey-hygiene/)
+**主な参照元**：[Reuters](https://www.reuters.com/world/asia-pacific/japan-survey-animal-cafes-first-time-over-welfare-disease-concerns-2026-09-30/) / [The Japan Times](https://www.japantimes.co.jp/news/2026/08/28/japan/animal-cafe-survey-hygiene/)
 
 ### 5．【スポーツ・運営】アジア大会、女子サッカー日韓戦の観客わずか998人
 **今回の差分**
@@ -109,8 +105,7 @@ AIの声には権利の線引きが必要になり、本人確認のために預
 
 チケットを売るところまでは営業。客が来て初めてイベントである。
 
-**主な参照元**：  
-[AFP](https://www.afp.com/en/asian-games-crowds-spotlight-998-see-hosts-50000-stadium) / [South China Morning Post](https://www.scmp.com/sport/other-sport/article/3369335/asian-games-crowds-disappointing-998-fans-watch-football-50000-seat-stadium)
+**主な参照元**：[AFP](https://www.afp.com/en/asian-games-crowds-spotlight-998-see-hosts-50000-stadium) / [South China Morning Post](https://www.scmp.com/sport/other-sport/article/3369335/asian-games-crowds-disappointing-998-fans-watch-football-50000-seat-stadium)
 
 ## 🌍 海外ニュース
 
@@ -131,8 +126,7 @@ AIの声には権利の線引きが必要になり、本人確認のために預
 
 協定の評価は署名そのものより、問題発生時に監査結果がどう扱われ、実際の開発・公開判断へ反映されるかで決まる。
 
-**主な参照元**：  
-[AP](https://apnews.com/article/trump-ai-anthropic-musk-595796511f110fc006cca0d01329733e) / [Reuters](https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/)
+**主な参照元**：[AP](https://apnews.com/article/trump-ai-anthropic-musk-595796511f110fc006cca0d01329733e) / [Reuters](https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/)
 
 ### 7．【AI・半導体】DeepSeek×Huawei、勝負はチップから「CUDA代替」へ
 **何が起きたか**
@@ -151,8 +145,7 @@ CUDAの強さはGPUの速さだけじゃない。長年のライブラリ、文�
 
 中国のNvidia代替競争は「チップを作れるか」から「そのチップで普通に仕事できるか」へ移ってきた。
 
-**主な参照元**：  
-[Reuters](https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/) / [Techzine](https://www.techzine.eu/news/devops/144657/deepseek-brings-ai-software-to-huaweis-ascend-chips/)
+**主な参照元**：[Reuters](https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/) / [Techzine](https://www.techzine.eu/news/devops/144657/deepseek-brings-ai-software-to-huaweis-ascend-chips/)
 
 ### 8．【経済】中国製造業PMI50.1　拡大圏復帰も、中小企業はまだ50割れ
 **何が起きたか**
@@ -171,8 +164,7 @@ CUDAの強さはGPUの速さだけじゃない。長年のライブラリ、文�
 
 改善はした。ただし回復完了ではない。製造の強さが中小企業や国内需要へ広がるかが次の焦点。
 
-**主な参照元**：  
-[中国国家統計局](https://www.stats.gov.cn/zwfwck/sjfb/202609/t20260930_1965449.html) / [Reuters](https://www.reuters.com/world/china/chinese-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30/)
+**主な参照元**：[中国国家統計局](https://www.stats.gov.cn/zwfwck/sjfb/202609/t20260930_1965449.html) / [Reuters](https://www.reuters.com/world/china/chinese-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30/)
 
 ### 9．【航空・安全】flydubai便が「7500」発信、サウジへ緊急着陸
 **何が起きたか**
@@ -191,8 +183,7 @@ CUDAの強さはGPUの速さだけじゃない。長年のライブラリ、文�
 
 確定しているのは緊急信号、迂回着陸、全員無事まで。原因は正式調査待ち。
 
-**主な参照元**：  
-[Reuters](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/) / [AeroTime](https://www.aerotime.aero/articles/flydubai-fz1073-diverts-saudi-arabia-7500-code)
+**主な参照元**：[Reuters](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/) / [AeroTime](https://www.aerotime.aero/articles/flydubai-fz1073-diverts-saudi-arabia-7500-code)
 
 ### 10．【気候・科学】中国「観測史上最強のスーパーエルニーニョ」予測
 **何が起きたか**
@@ -211,8 +202,7 @@ CUDAの強さはGPUの速さだけじゃない。長年のライブラリ、文�
 
 3.5℃という数字より、それが各地で大雨、干ばつ、高温、寒波のどれとして現れるかが本番。
 
-**主な参照元**：  
-[Reuters](https://www.reuters.com/business/environment/china-expects-strongest-super-el-nino-event-record-this-year-2026-09-29/) / [新華社](https://app.xinhuanet.com/news/article.html?articleId=202609299c7e24e06c9c464d9ba923e5f9bcf604)
+**主な参照元**：[Reuters](https://www.reuters.com/business/environment/china-expects-strongest-super-el-nino-event-record-this-year-2026-09-29/) / [新華社](https://app.xinhuanet.com/news/article.html?articleId=202609299c7e24e06c9c464d9ba923e5f9bcf604)
 
 ## 今日の総評
 
