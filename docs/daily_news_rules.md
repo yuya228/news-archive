@@ -144,12 +144,16 @@
 - 「国内5件・海外5件」「5分野を採用」など内部チェック条件を事務的に列挙しない。
 - 最後に「今日の総評」を2〜4文。毎回同じ切り口・比喩・語尾・オチを使わない。
 
-## 9. Site保存
+## 9. Site保存・表示・アーカイブ
 - 最終ファクトチェック後の確定本文を、Site表示用の完成済みMarkdownとして扱う。
 - 保存は接続済みプラグインの `save_daily_news` を1回だけ使用する。
 - 入力は、実行日の日本時間の日付を `date`、`M月D日の一人賛否ニュース` を `title`、正本ルールに従った対象期間を `target_period`、確定本文を `body` とする。
 - `body` にはタイトル行と対象期間のメタ行を重複して含めない。
-- 記事タイトル先頭の `📰` はSite側が表示するため、`save_daily_news` の `title` には入れない。
+- `save_daily_news` の `title` には先頭の `📰` を入れない。Site表示時に必ず `📰 M月D日の一人賛否ニュース` の形で `📰` を付ける。
+- Siteの本文では、各ニュース見出しの表示ジャンルを §6 の11種類から1つだけ選び、絵文字と表記を完全一致させる。絵文字を省略しない。
+- `save_daily_news` で `daily_news` に保存された本番記事は、`/news/YYYY-MM-DD` の日付記事として公開されるだけでなく、Siteの `/archive` にも自動反映される前提とする。
+- `/archive` はSite移行後の本番 `daily_news` のみを対象に、新しい日付順で日付・タイトルを表示し、各項目から `/news/YYYY-MM-DD` へ遷移できる状態にする。GitHub旧アーカイブとは統合しない。
+- アーカイブ反映のために別の保存処理やGitHub書き込みを追加しない。アーカイブは同じ `daily_news` を参照するSite側の表示責務とする。
 - GitHubは `yuya228/news-archive` の `docs/daily_news_rules.md`、`daily/recent_index.md`、必要な過去daily記事の読み取りにのみ使用し、このScheduled Taskでは一切書き込まない。
 - `save_daily_news` 以外の書き込みツールは使わない。
 - `publish_test_article`、`save_test_article`、`send_test_push`、`/internal/process-notifications` は呼び出さず、Web Pushやバックグラウンド通知を直接開始しない。通知は別系統に任せる。
@@ -185,7 +189,9 @@
 - 「何が起きたか」「賛」「ただぁ！」「結論」「今回の差分」などが太字見出しで記述されているか。
 - 各ニュースの「主な参照元」が、本調査で実際に使ったURLのMarkdownリンクになっているか。
 - `save_daily_news` の `body` にタイトル行・対象期間メタ行を重複して入れていないか。
-- `save_daily_news` の `title` に先頭の `📰` を入れていないか。
+- `save_daily_news` の `title` に先頭の `📰` を入れず、Site表示側でタイトル先頭に `📰` を付ける仕様になっているか。
+- 各ニュース見出しの固定表示ジャンルで、§6の絵文字と表記が完全一致し、絵文字を省略していないか。
+- 保存した本番記事がSiteの `/archive` で新しい日付順に参照され、`/news/YYYY-MM-DD` へリンクされる前提を崩していないか。
 - GitHubを読み取り専用で扱い、書き込みを実行していないか。
 - `save_daily_news` 以外の書き込みツール、テスト記事保存、Push送信、通知Endpointを呼び出していないか。
 - `save_daily_news` を1回だけ呼び出し、`saved`、`created` / `updated`、`date`、`path`、`public_available` を確認したか。
